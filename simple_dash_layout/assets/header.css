@@ -69,3 +69,8 @@ body {
     background-color: #d6e9fe;
     border: solid  rgb(32, 32, 32) 1px;
 }
+
+pre {
+    width: 100px;
+    white-space: pre-wrap;
+}
